@@ -1,0 +1,122 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+*.egg-info/
+dist/
+build/
+*.pyc
+*.pyo
+*.pyd
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.hypothesis/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+pip-selfcheck.json
+.python-version
+
+# Node.js / Next.js
+node_modules/
+.next/
+out/
+build/
+.vercel
+.turbo
+.swc
+*.tsbuildinfo
+package-lock.json.bak
+yarn-error.log
+.yarn-integrity
+
+# IDEs and Editors
+.vscode/
+.idea/
+.cursor/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+.atom/
+.brackets.json
+*.code-workspace
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+backend/.env
+backend/.env.local
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+# Database
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+backend/data/
+!backend/data/.gitkeep
+
+# Testing
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+
+# Logs
+*.log
+*.log.*
+logs/
+
+# OS Files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.fuse_hidden*
+.directory
+.Trash-*
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.backup
+.#*
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath
+*.sage.py
+
+# Project Specific (explicit paths for clarity)
+backend/venv/
+backend/__pycache__/
+backend/**/__pycache__/
+frontend/node_modules/
+frontend/.next/
+frontend/out/

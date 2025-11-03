@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "rickandmorty-backend"
+version = "0.1.0"
+description = "Rick & Morty AI Challenge Backend"
+authors = ["Your Name <you@example.com>"]
+
+[tool.black]
+line-length = 100
+target-version = ['py311']
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
