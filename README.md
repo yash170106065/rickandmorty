@@ -18,6 +18,8 @@ The demo showcases all features including semantic search, AI generation with qu
 ### 🗺️ **Location Exploration**
 Browse through all dimensions, planets, and locations in the Rick & Morty multiverse. View detailed information including residents, dimensions, and types.
 
+![Location Exploration](docs/images/locations.png)
+
 **Key Capabilities:**
 - Paginated location browsing
 - Resident listings with character details
@@ -28,6 +30,8 @@ Browse through all dimensions, planets, and locations in the Rick & Morty multiv
 
 ### 👽 **Character Discovery**
 Explore 800+ characters from the Rick & Morty universe with comprehensive profiles, episode appearances, and relationships.
+
+![Character Discovery](docs/images/characters.png)
 
 **Key Capabilities:**
 - Detailed character profiles with images
@@ -42,6 +46,8 @@ Explore 800+ characters from the Rick & Morty universe with comprehensive profil
 ### 🎬 **Episode Journey**
 Navigate through all episodes with detailed information about plots, characters, and air dates.
 
+![Episode Journey](docs/images/episodes.png)
+
 **Key Capabilities:**
 - Complete episode catalog
 - Character appearance tracking
@@ -52,6 +58,8 @@ Navigate through all episodes with detailed information about plots, characters,
 
 ### 🤖 **AI-Powered Content Generation**
 Generate contextual summaries, dialogues, and insights with built-in quality evaluation scoring.
+
+![AI Generation](docs/images/ai-generation.png)
 
 **Key Capabilities:**
 - **Location Summaries**: AI-generated descriptions in Rick & Morty narrator style
@@ -74,6 +82,8 @@ Generate contextual summaries, dialogues, and insights with built-in quality eva
 ### 🔍 **Semantic Search**
 Find characters, locations, and episodes using natural language queries. Powered by vector embeddings and cosine similarity.
 
+![Semantic Search](docs/images/semantic-search.png)
+
 **Key Capabilities:**
 - Natural language query processing
 - Unified search across characters, locations, and episodes
@@ -91,6 +101,8 @@ Find characters, locations, and episodes using natural language queries. Powered
 
 ### 📝 **Smart Notes System**
 Add, edit, and organize notes for any entity in the Rick & Morty universe.
+
+![Notes System](docs/images/notes.png)
 
 **Key Capabilities:**
 - Unified notes across characters, locations, and episodes
