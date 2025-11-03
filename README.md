@@ -282,25 +282,5 @@ API_PORT=8000
 NEXT_PUBLIC_API_URL=http://localhost:8000
 ```
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-
-## 🙏 Acknowledgments
-
-- [Rick and Morty API](https://rickandmortyapi.com/) for providing the GraphQL API
-- OpenAI for language models and embeddings
-- FastAPI and Next.js communities
-
-## 📧 Contact
-
-For questions or issues, please open an issue on GitHub.
-
----
 
 **Built with ⚡ for exploring the infinite dimensions of Rick & Morty**
