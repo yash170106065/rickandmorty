@@ -9,9 +9,9 @@ An AI-powered exploration platform for the Rick & Morty universe featuring seman
 
 ## 🎬 Demo
 
-[![Watch the demo video](https://cdn.loom.com/sessions/thumbnails/d5dfe2cc971f4ad7b3af74a0a1059d15-with-play.gif)](https://www.loom.com/share/d5dfe2cc971f4ad7b3af74a0a1059d15)
+**Watch the full demo video:** [https://www.loom.com/share/d5dfe2cc971f4ad7b3af74a0a1059d15](https://www.loom.com/share/d5dfe2cc971f4ad7b3af74a0a1059d15)
 
-**Click the thumbnail above** to watch the full demo video showcasing all features including semantic search, AI generation, and note-taking capabilities.
+The demo showcases all features including semantic search, AI generation with quality evaluation, and comprehensive note-taking capabilities.
 
 ## ✨ Features
 
